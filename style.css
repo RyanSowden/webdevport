@@ -1,0 +1,159 @@
+.header {
+    text-align: center;
+    color: white;
+
+}
+
+
+.jumbotron {
+    background-image: url('images/header.jpg');
+    background-size: 100% auto;
+    padding: 90px;
+}
+
+.btn-primary {
+    background: red;
+    margin: auto;
+    margin-top: 60px;
+    display: block;
+    
+}
+
+
+.btn-primary:hover {
+    background-color: rgba(250, 87, 87, 0.973);
+    
+}
+
+.h1 {
+    display: none;
+}
+.p1 {
+    display: none;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: auto;
+    display: none;
+}
+
+.h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: auto;
+    display: none;
+}
+
+.row {
+    padding: 50px;
+}
+
+.thumbnail {
+    text-align: center;
+    display: none;
+
+    
+}
+
+
+
+.btn-default {
+    margin: 5px;
+}
+
+.html {
+    margin-left: 20%;
+    margin-top: 13%;
+    padding: 0;
+    
+    
+
+}
+
+.css {
+    margin-top: 10%;
+    margin-left: 1%;
+    padding: 0;
+    width: 450px;
+    
+   
+}
+
+.javascript {
+    margin-top: 5%;
+    margin-left: 15%;
+    padding: 0;
+    width: 250px;
+    
+}
+    
+
+.caption {
+    text-align: center;
+    display: none;
+}
+
+.captionPic {
+    text-align: center;
+}
+
+.contact {
+    padding: 0;
+    margin-top: 40%;
+    background-color: rgb(104, 100, 100);
+    background-size: 100% auto;
+    padding: 90px;
+
+}
+
+.contact h3 {
+    color: white;
+    text-align: center;
+    margin-top: -40px;
+    font-size: 30px;
+}
+
+.contact p {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+.btn-info {
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+}
+
+.footer {
+    margin: auto;
+}
+
+.social {
+    color: grey;
+    font-size: 30px;
+    text-align: center;
+}
+
+.viewbox {
+    font-size: 200px;
+}
+
+.social i {
+    color: rgb(49, 48, 48);
+}
+
+.social i:hover {
+    color: grey;
+
+}
+
+
+
+
+
